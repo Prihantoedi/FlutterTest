@@ -22,9 +22,8 @@ class Home extends StatelessWidget{
         ),
         body: Center(
           child: Image(
-                image: AssetImage('assets/dice.jpg'),
+                image: AssetImage('assets/laptop2.jpg'),
           ),
-              // image: NetworkImage('https://images.unsplash.com/photo-1489549132488-d00b7eee80f1?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D') with url
         ),
         floatingActionButton: FloatingActionButton(
           onPressed: (){},
